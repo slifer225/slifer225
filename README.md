@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Tom (Tong Swee Tien)
+# 👋 Hey, I’m Swee Tien
 
 ### 🚀 Full-Stack Engineer • DevSecOps Architect • Web3 Tinkerer
 
