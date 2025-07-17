@@ -28,9 +28,6 @@ Languages:
 DevOps & Cloud:
   - Azure, AKS, Docker, Terraform, GitHub Actions, Jenkins, Datadog
 
-Security:
-  - DevSecOps, Zero-Trust Architecture, HSM, Kong Gateway
-
 Web3:
   - Solana Anchor, Ethereum, Web3.js, Stellar
 
